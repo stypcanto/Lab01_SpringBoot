@@ -67,8 +67,8 @@ Cuando accedes a `http://localhost:8080/detalles_info`, se renderiza la vista `d
 
 4.  Abre tu navegador y visita:
 
- ```bash
-   http://localhost:8080/detalles_info
+    ```bash
+        http://localhost:8080/detalles_info
     ```
 
 
