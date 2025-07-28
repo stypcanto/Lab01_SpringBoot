@@ -57,20 +57,20 @@ Cuando accedes a `http://localhost:8080/detalles_info`, se renderiza la vista `d
 
 1. Clona el repositorio o copia el código fuente.
 
-2. Abre el proyecto en tu IDE favorito (como IntelliJ IDEA, Eclipse o Visual Studio Code).
+2. Abre el proyecto en tu IDE en Visual Studio Code.
 
-3. En la raíz del proyecto, ejecuta el siguiente comando:
+3. En la raíz del proyecto, ejecuta el siguiente comando (solo Visual Studio Code):
 
    ```bash
-   ./mvnw spring-boot:run
+        ./mvnw spring-boot:run
     ```
 
 4.  Abre tu navegador y visita:
 
     ```bash
-        http://localhost:8080/detalles_info
+        http://localhost:9525/detalles_info
     ```
-
+* En el caso de Intellijet solo se necesita ejecutar con Play sobre SpringBoo Application
 
 ## 🧭 ¿Qué es un Controller en Spring Boot?
 
